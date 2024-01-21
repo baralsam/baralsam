@@ -37,3 +37,6 @@ Currently enhancing my skills in Cloud Computing, Object Oriented Design, Design
 # How to reach me:
 * Email: baral.sam@northeastern.edu 
 * LinkedIn: [LinkdIn](https://www.linkedin.com/in/samiksha-baral1/)
+
+# GitHub Stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=baralsam&theme=dark&hide_border=true)](https://git.io/streak-stats)
